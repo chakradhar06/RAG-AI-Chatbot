@@ -1,0 +1,6 @@
+streamlit 
+langchain 
+watchdog 
+langchain_community 
+sentence-transformers 
+pypdf
